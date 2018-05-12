@@ -1,0 +1,31 @@
+_repo: The-Arawack-Language-of-Guiana-in-its-Linguistic-and-Ethnological-Relations_31273
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brinton, Daniel G. (Daniel Garrison)
+    aliases:
+    - Brinton, Daniel Garrison
+    - Brinton, D. G. (Daniel Garrison)
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '2993'
+    url: http://www.gutenberg.org/2009/agents/2993
+    wikipedia: http://en.wikipedia.org/wiki/Daniel_Garrison_Brinton
+description: ''
+gutenberg_issued: '2010-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31273'
+  lccn: '02000266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arawak language'
+- !lcc 'PM'
+title: The Arawack Language of Guiana in its Linguistic and Ethnological Relations
+url: http://www.gutenberg.org/ebooks/31273
